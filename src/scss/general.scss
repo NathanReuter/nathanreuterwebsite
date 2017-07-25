@@ -1,0 +1,18 @@
+.gmaps-container {
+  height: 300px;
+  width: 550px;
+  overflow:hidden;
+}
+
+#gmap_canvas {
+  height: 300px;
+  width: 550px;
+
+  img{
+    max-width: none !important;
+    background:none !important;
+  }
+}
+.contato {
+  margin-bottom: 40px;
+}

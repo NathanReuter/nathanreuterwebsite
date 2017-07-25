@@ -1,0 +1,24 @@
+.team-section {
+  padding-bottom: 40px;
+}
+
+.services-row {
+  p {
+    margin-bottom: 0;
+  }
+
+  .service-icon {
+    font-size: xx-large;
+    &:hover {
+      .fa {
+        color: $red;
+        transition: 0.5s;
+      }
+
+    }
+  }
+
+  h3 {
+    font-weight: 300;
+  }
+}
