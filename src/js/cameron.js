@@ -351,6 +351,9 @@ if( $('.portfolio-wrap').length > 0 ){
 /*****Ready function start*****/
 $(document).ready(function(){
     cameron();
+    $('#button-scrolltop').on('click', function () {
+        $("html, body").animate({ scrollTop: 0 }, "slow");
+    });
 });
 /*****Ready function end*****/
 
@@ -474,7 +477,4 @@ $(document).on('click', '#reset', function (e) {
     }
 });
 /***** Setting Panel End*****/
-
-
-
 
