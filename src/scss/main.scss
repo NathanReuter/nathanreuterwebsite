@@ -4,10 +4,13 @@
 @import "fonts",
         "variables",
         "general",
+        "material.min",
+        "lightgallery",
+        "jqueryui",
+        "skintheme",
         "styles",
         "mainpage";
 
 // Vendor Files
 @import
-        //"../../bower_components/bootstrap-grid-only/css/grid12",
         "../../bower_components/font-awesome/scss/font-awesome";

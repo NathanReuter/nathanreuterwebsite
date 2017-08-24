@@ -4,14 +4,19 @@ module.exports = function (grunt) {
     require('load-grunt-tasks')(grunt);
     require('time-grunt')(grunt);
 
-    var timer = require('grunt-timer'),
-        configs = {
-            app: './src',
-            tempPath: '.tmp',
-            distPath: './dist',
-            buildPath: grunt.option('path') || './build',
-            prodPath: '/var/www/'
-        };
+    let timer = require('grunt-timer'),
+        configs = (() => {
+            const appName = 'nathansite';
+
+            return {
+                appName: appName,
+                app: './src',
+                tempPath: '.tmp',
+                distPath: './dist',
+                buildPath: grunt.option('path') || './build',
+                prodPath: '/var/www/' + appName
+            };
+        })();
 
     timer.init(grunt, {
         friendlyTime: false,
@@ -82,6 +87,14 @@ module.exports = function (grunt) {
                     '<%= config.distPath %>'
                 ]
             },
+            prod: {
+                options: {
+                    force: true
+                },
+                src: [
+                    '<%= config.prodPath %>'
+                ]
+            },
             after: {
                 src: [
                     '<%= config.buildPath %>'
@@ -124,14 +137,6 @@ module.exports = function (grunt) {
             },
             dist: {
                 files: [
-                    // {
-                    //     expand: true,
-                    //     cwd: '<%= config.app %>/',
-                    //     src: ['index.html'],
-                    //     dest: '<%= config.distPath %>/',
-                    //     flatten: true,
-                    //     filter: 'isFile'
-                    // },
                     {
                         expand: true,
                         cwd: './',
@@ -285,7 +290,9 @@ module.exports = function (grunt) {
             },
             dist: {
                 src: [
-                    '<%= config.app %>/js/**'],
+                    '<%= config.app %>/js/**',
+                    '!<%= config.app %>/js/cameron.js',
+                    '<%= config.app %>/js/cameron.js'],
                 dest: '<%= config.buildPath %>/js/app.js'
             }
         },
@@ -362,6 +369,7 @@ module.exports = function (grunt) {
 
 
     grunt.registerTask('prod', [
+        'clean:prod',
         'dist', 
         'copy:prod', 
         'clean:dist'
