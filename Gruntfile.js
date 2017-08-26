@@ -4,9 +4,9 @@ module.exports = function (grunt) {
     require('load-grunt-tasks')(grunt);
     require('time-grunt')(grunt);
 
-    let timer = require('grunt-timer'),
-        configs = (() => {
-            const appName = 'nathansite';
+    var timer = require('grunt-timer'),
+        configs = (function () {
+            var appName = 'nathansite';
 
             return {
                 appName: appName,
