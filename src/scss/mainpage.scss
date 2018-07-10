@@ -12,3 +12,14 @@
     display: none;
   }
 }
+
+.technologies-imgs {
+  background: #2b2b2b;
+  padding: 30px;
+
+  img {
+    max-width: 100px;
+    margin: 0 15px;
+    max-height: 50px;
+  }
+}
