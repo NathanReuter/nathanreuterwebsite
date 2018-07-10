@@ -24,7 +24,7 @@ function calculateBirthday(birthday) {
 
 
 function setMyAge($) {
-    var age = calculateBirthday(new Date('09-12-1992'));
+    var age = calculateBirthday(new Date('09/12/1992'));
 
     $('#myage').text(age);
 }
