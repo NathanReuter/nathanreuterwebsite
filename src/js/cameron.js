@@ -15,19 +15,7 @@
 "use strict";
 /*****Load function start*****/
 
-function calculateBirthday(birthday) {
-    var ageDifMs = Date.now() - birthday.getTime(),
-        ageDate = new Date(ageDifMs);
 
-    return Math.abs(ageDate.getUTCFullYear() - 1970);
-}
-
-
-function setMyAge($) {
-    var age = calculateBirthday(new Date('09/12/1992'));
-
-    $('#myage').text(age);
-}
 
 $(window).load(function(){
     if( $('.portfolio-wrap').length > 0 ) {}
@@ -35,8 +23,6 @@ $(window).load(function(){
     $(".preloader-it").delay(500).fadeOut("slow");
     if(window.location.href.indexOf("index.html#") > -1)
         $("html, body").animate({scrollTop: $(window.location.hash).offset().top - 50 }, 800);
-
-    setMyAge($);
 });
 /*****Load function* end*****/
 
