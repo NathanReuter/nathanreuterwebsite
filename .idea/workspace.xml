@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42641573-7cca-41b6-b19f-cb5373f7578c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/js/cameron.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/js/cameron.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/js/myjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/js/myjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/files/Curriculum Vitae - Nathan Reuter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,6 +20,7 @@
     <session id="956568514">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -55,6 +56,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="825861730">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="nathansite" />
@@ -62,61 +81,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../src/index.html">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="546" column="38" selection-start-line="546" selection-start-column="38" selection-end-line="546" selection-end-column="38" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#6;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Gruntfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4538">
-              <caret line="138" column="24" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/assets/img/technologies/mongo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/assets/img/technologies/redis.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../.bowerrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/js/cameron.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="24" column="94" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/js/myjs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="191">
+              <caret line="92" column="94" selection-start-line="92" selection-start-column="94" selection-end-line="92" selection-end-column="94" />
             </state>
           </provider>
         </entry>
@@ -132,7 +100,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>material-icons</find>
       <find>ui/ex</find>
       <find>Tecni</find>
       <find>yellow-bar</find>
@@ -162,6 +129,7 @@
       <find>tecn</find>
       <find>portfolio_sec</find>
       <find>curricul</find>
+      <find>jquer</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/scss</dir>
@@ -169,7 +137,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -192,18 +160,16 @@
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/src/scss/styles.scss" />
         <option value="$PROJECT_DIR$/src/scss/mainpage.scss" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/js/cameron.js" />
-        <option value="$PROJECT_DIR$/../.bowerrc" />
-        <option value="$PROJECT_DIR$/../src/js/myjs.js" />
-        <option value="$PROJECT_DIR$/../src/js/cameron.js" />
-        <option value="$PROJECT_DIR$/../src/index.html" />
+        <option value="$USER_HOME$/.bowerrc" />
+        <option value="$USER_HOME$/src/js/myjs.js" />
+        <option value="$USER_HOME$/src/js/cameron.js" />
+        <option value="$USER_HOME$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
-    <gruntfile path="$PROJECT_DIR$/../Gruntfile.js" />
-  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -216,15 +182,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/../node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/../bower_components/bootstrap-grid-only/package.json" />
-      <path value="$PROJECT_DIR$/../bower_components/lodash/package.json" />
-      <path value="$PROJECT_DIR$/../build/bower_components/bootstrap-grid-only/package.json" />
-      <path value="$PROJECT_DIR$/../build/bower_components/lodash/package.json" />
-      <path value="$PROJECT_DIR$/../package.json" />
+      <path value="$PROJECT_DIR$/bower_components/bootstrap-grid-only/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/lodash/package.json" />
+      <path value="$PROJECT_DIR$/build/bower_components/bootstrap-grid-only/package.json" />
+      <path value="$PROJECT_DIR$/build/bower_components/lodash/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -237,50 +203,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="nathanreuterwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="nathanreuterwebsite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="nathanreuterwebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="nathanreuterwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="nathanreuterwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="nathanreuterwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="nathanreuterwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="nathanreuterwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="nathanreuterwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="technologies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="nathanreuterwebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,8 +250,8 @@
       <recent name="$PROJECT_DIR$/src/assets/files" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../src/assets/files" />
-      <recent name="$PROJECT_DIR$/../src/assets/img/technologies" />
+      <recent name="$USER_HOME$/src/assets/files" />
+      <recent name="$USER_HOME$/src/assets/img/technologies" />
       <recent name="$PROJECT_DIR$/src/assets/img" />
       <recent name="$PROJECT_DIR$/build" />
     </key>
@@ -383,12 +335,13 @@
       <workItem from="1504141074461" duration="2099000" />
       <workItem from="1504211736265" duration="50000" />
       <workItem from="1531254798819" duration="1139000" />
-      <workItem from="1551105284807" duration="2267000" />
+      <workItem from="1551105284807" duration="3541000" />
+      <workItem from="1551980579868" duration="132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27296000" />
+    <option name="totallyTimeSpent" value="28702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
@@ -398,7 +351,6 @@
       <window_info id="Structure" order="1" sideWeight="0.49371633" weight="0.24947146" />
       <window_info id="Grunt " order="2" sideWeight="0.25771144" side_tool="true" weight="0.21349499" />
       <window_info id="Favorites" order="3" sideWeight="0.5048193" side_tool="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -407,8 +359,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32935324" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -441,180 +394,46 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../src/templates/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/templates/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/src/templates/footer.html" />
+    <entry file="file://$USER_HOME$/src/templates/header.html" />
     <entry file="file://$PROJECT_DIR$/src/assets/urls.json" />
     <entry file="file://$PROJECT_DIR$/src/assets/img/logo.jpg" />
     <entry file="file://$PROJECT_DIR$/src/assets/img/icon-facebook.png" />
     <entry file="file://$PROJECT_DIR$/build/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/../build/index.html" />
-    <entry file="file://$PROJECT_DIR$/../src/js/html5shiv.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/build/index.html" />
+    <entry file="file://$USER_HOME$/src/js/html5shiv.js" />
     <entry file="file://$PROJECT_DIR$/src/js/template.js" />
     <entry file="file://$PROJECT_DIR$/dist/js/app.js" />
-    <entry file="file://$PROJECT_DIR$/../src/js/isotope.js">
+    <entry file="file://$USER_HOME$/src/js/isotope.js" />
+    <entry file="file://$USER_HOME$/src/js/smooth-scroll.js" />
+    <entry file="file://$USER_HOME$/src/js/Jquery.appear.js" />
+    <entry file="file://$USER_HOME$/readme.md" />
+    <entry file="file://$USER_HOME$/package.json" />
+    <entry file="file://$USER_HOME$/src/scss/material.min.scss" />
+    <entry file="file://$USER_HOME$/src/scss/fonts.scss" />
+    <entry file="file://$USER_HOME$/src/assets/img/avatar2.jpg" />
+    <entry file="file://$USER_HOME$/src/scss/skintheme.scss" />
+    <entry file="file://$USER_HOME$/src/assets/img/avatar.jpg" />
+    <entry file="file://$USER_HOME$/src/scss/styles.scss" />
+    <entry file="file://$USER_HOME$/src/scss/mainpage.scss" />
+    <entry file="file://$USER_HOME$/src/scss/main.scss" />
+    <entry file="file://$USER_HOME$/src/scss/general.scss" />
+    <entry file="file://$USER_HOME$/src/scss/jqueryui.scss" />
+    <entry file="file://$USER_HOME$/src/scss/lightgallery.scss" />
+    <entry file="file://$USER_HOME$/.bowerrc" />
+    <entry file="file://$USER_HOME$/src/assets/img/technologies/node.png" />
+    <entry file="file://$USER_HOME$/src/assets/img/technologies/redis.png" />
+    <entry file="file://$USER_HOME$/src/assets/img/technologies/angular-3.svg" />
+    <entry file="file://$USER_HOME$/src/assets/img/technologies/react.png" />
+    <entry file="file://$USER_HOME$/src/js/cameron.js" />
+    <entry file="file://$USER_HOME$/src/index.html" />
+    <entry file="file://$USER_HOME$/src/assets/img/technologies/mongo.png" />
+    <entry file="file://$USER_HOME$/Gruntfile.js" />
+    <entry file="file://$USER_HOME$/src/js/myjs.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="471" selection-start-line="56" selection-start-column="471" selection-end-line="56" selection-end-column="471" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/js/smooth-scroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7590">
-          <caret line="506" column="3" selection-start-line="506" selection-start-column="3" selection-end-line="506" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/js/Jquery.appear.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="149" column="11" selection-start-line="149" selection-start-column="11" selection-end-line="149" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../readme.md" />
-    <entry file="file://$PROJECT_DIR$/../package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/material.min.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3930">
-          <caret line="262" selection-start-line="262" selection-end-line="262" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/assets/img/avatar2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/skintheme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="482" column="21" selection-start-line="482" selection-start-column="21" selection-end-line="482" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/assets/img/avatar.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25095">
-          <caret line="1195" column="39" selection-start-line="1195" selection-start-column="39" selection-end-line="1195" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/mainpage.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/general.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/jqueryui.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="29135" selection-start-line="6" selection-start-column="29135" selection-end-line="6" selection-end-column="29135" />
-          <folding>
-            <element signature="e#4051#4136#2" expanded="true" />
-            <element signature="e#11609#13958#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/scss/lightgallery.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23583">
-          <caret line="1123" column="44" selection-start-line="1123" selection-start-column="44" selection-end-line="1123" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/assets/img/technologies/node.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/assets/img/technologies/redis.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/assets/img/technologies/angular-3.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/assets/img/technologies/mongo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/assets/img/technologies/react.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4538">
-          <caret line="138" column="24" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/js/cameron.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="24" column="94" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/js/myjs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="546" column="38" selection-start-line="546" selection-start-column="38" selection-end-line="546" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#6;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="191">
+          <caret line="92" column="94" selection-start-line="92" selection-start-column="94" selection-end-line="92" selection-end-column="94" />
         </state>
       </provider>
     </entry>
